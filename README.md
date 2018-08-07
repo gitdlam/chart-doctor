@@ -1,6 +1,8 @@
 # chart-doctor
 Sample files to accompany the FT's [Chart Doctor](http://www.ft.com/chart-doctor) feature.
 
+https://photos.google.com/share/AF1QipOsge9krcbmO5qj6mzjFbG4WfUL6jYVayXTqBO_BclqUEB94mZrWw-E9-o-Q_pHMQ?key=Tk04RW9oVDZxcC05UEIzRTRYcVJqeXNjb1o4NFpn
+
 ## Licence
 This software is published by the Financial Times under the [MIT licence](http://opensource.org/licenses/MIT). 
 
